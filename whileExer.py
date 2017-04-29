@@ -1,4 +1,4 @@
-fruits = ['mango','guva','pineapple','apple','orange']
+fruits = ['mango','guva','pineapple','apple','orange','avocado','kiwi','lemon']
 i = 0
 
 while i < len (fruits):
